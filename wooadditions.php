@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Woo Faster
-Description: افزونه خرید سریع وکامرس | ایجاد صفحه خرید سریع جهت دسترسی بهتر به محصولات
-Plugin URI: https://shahkochaki.ir/plugins/woofaster
+Plugin Name: Woo Additions
+Description: افزونه وکامرس زیباتر
+Plugin URI: https://shahkochaki.ir/plugins/wooadditions
 Author: Ali Shahkochaki
 Author URI: https://shahkochaki.ir
 Version: 1.0.0
